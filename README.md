@@ -18,26 +18,26 @@ I am **Nguyen Minh Nghia** (LightyWind), a 4th-year student passionate about bui
 
 I have experience working with the following technologies and domains:
 
-* 🌐 **Web Development:**
-    * JavaScript/TypeScript, React, Vue, Nodejs, Nestjs, Expressjs
-    * RESTful APIs & API Security (JWT)
+🌐 **Web Development:**
+* JavaScript/TypeScript, React, Vue, Nodejs, Nestjs, Expressjs
+* RESTful APIs & API Security (JWT)
 
-* 🛡️ **Information Security:**
-    * Network Security
-    * Web Application Security (OWASP Top 10)
-    * Secure Coding Principles
-    * Authentication Protocols
+🛡️ **Information Security:**
+* Network Security
+* Web Application Security (OWASP Top 10)
+* Secure Coding Principles
+* Authentication Protocols
 
-* 💻 **Other Programming Languages:**
-    * C++, Python
-    * Kotlin
+💻 **Other Programming Languages:**
+* C++, Python
+* Kotlin
 
-* 🛢️ **Databases:**
-    * MySQL, PostgreSQL, MongoDB
+🛢️ **Databases:**
+* MySQL, PostgreSQL, MongoDB
 
-* ⚙️ **Other Tools:**
-    * Git & GitHub
-    * Security Tools: Wireshark, Nmap, Burp Suite, 
+⚙️ **Other Tools:**
+* Git & GitHub
+* Security Tools: Wireshark, Nmap, Burp Suite
 
 ---
 
